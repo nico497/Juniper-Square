@@ -1,0 +1,1191 @@
+{
+ "meta": {
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Investor management and fund administration software for private equity and real estate general partners",
+  "you": "Juniper Square",
+  "generated": "2026-10-19T07:24:22+00:00",
+  "state_updated": "2026-10-19T07:15:25+00:00",
+  "repo": "nico497/Juniper-Square"
+ },
+ "types": [
+  [
+   "vs_you",
+   "Us vs. them"
+  ],
+  [
+   "alt",
+   "Alternatives"
+  ],
+  [
+   "switch",
+   "Switching and migration"
+  ],
+  [
+   "pricing",
+   "Rival pricing breakdowns"
+  ],
+  [
+   "vs_rivals",
+   "Rival vs. rival"
+  ],
+  [
+   "best",
+   "Best-of and roundups"
+  ],
+  [
+   "case",
+   "Case and customer stories"
+  ]
+ ],
+ "sites": [
+  {
+   "name": "Juniper Square",
+   "tracked": 739,
+   "considered": 588,
+   "own_pricing": null,
+   "hubs": [
+    "https://www.junipersquare.com/customers",
+    "https://www.junipersquare.com/reviews"
+   ]
+  },
+  {
+   "name": "Carta",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Allvue Systems",
+   "tracked": 976,
+   "considered": 975,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "SS&C GlobalOps",
+   "tracked": 1693,
+   "considered": 1692,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "AppFolio Investment Manager",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "InvestNext",
+   "tracked": 296,
+   "considered": 290,
+   "own_pricing": "https://www.investnext.com/pricing/",
+   "hubs": []
+  },
+  {
+   "name": "Agora",
+   "tracked": 451,
+   "considered": 435,
+   "own_pricing": "https://agorareal.com/pricing/",
+   "hubs": [
+    "https://agorareal.com/case-studies/"
+   ]
+  }
+ ],
+ "vendors": [
+  "Carta",
+  "Allvue Systems",
+  "SS&C GlobalOps",
+  "AppFolio Investment Manager",
+  "InvestNext",
+  "Agora",
+  "Juniper Square",
+  "eFront",
+  "Dynamo Software",
+  "Anduin",
+  "Canoe Intelligence",
+  "AngelList",
+  "Backstop Solutions",
+  "Yardi",
+  "RealPage",
+  "Groundbreaker",
+  "Qapita",
+  "Investcloud"
+ ],
+ "excluded": {
+  "templated pages": 150,
+  "webinars, glossary, events and category pages": 25
+ },
+ "pages": [
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/acre",
+   "path": "/customers/acre",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/andmark",
+   "path": "/customers/andmark",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/apexone-investment-partners",
+   "path": "/customers/apexone-investment-partners",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/atlas",
+   "path": "/customers/atlas",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/avanath",
+   "path": "/customers/avanath",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/beacon",
+   "path": "/customers/beacon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/bell-partners",
+   "path": "/customers/bell-partners",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/bernstein",
+   "path": "/customers/bernstein",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/brazos",
+   "path": "/customers/brazos",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/build",
+   "path": "/customers/build",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/cantex-capital",
+   "path": "/customers/cantex-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/castle-park-investments",
+   "path": "/customers/castle-park-investments",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/chase-properties",
+   "path": "/customers/chase-properties",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/coastalridge",
+   "path": "/customers/coastalridge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/costanoa",
+   "path": "/customers/costanoa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/crec",
+   "path": "/customers/crec",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/dvo",
+   "path": "/customers/dvo",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/ellis",
+   "path": "/customers/ellis",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/encore",
+   "path": "/customers/encore",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/excelsior-capital",
+   "path": "/customers/excelsior-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/fd-stonewater",
+   "path": "/customers/fd-stonewater",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/felicis",
+   "path": "/customers/felicis",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/foxfield",
+   "path": "/customers/foxfield",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/fso-capital-partners",
+   "path": "/customers/fso-capital-partners",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/gmc",
+   "path": "/customers/gmc",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/greystar",
+   "path": "/customers/greystar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/greystar-2",
+   "path": "/customers/greystar-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/ignite-investments",
+   "path": "/customers/ignite-investments",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/ira-capital",
+   "path": "/customers/ira-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/jacobson",
+   "path": "/customers/jacobson",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/jnr-management",
+   "path": "/customers/jnr-management",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/keilty-realty",
+   "path": "/customers/keilty-realty",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/kostorage-investment-partners-2-2",
+   "path": "/customers/kostorage-investment-partners-2-2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/laurel-ridge",
+   "path": "/customers/laurel-ridge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/midway",
+   "path": "/customers/midway",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/newcrestimage",
+   "path": "/customers/newcrestimage",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/northland",
+   "path": "/customers/northland",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/parkview-financial",
+   "path": "/customers/parkview-financial",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/reliant",
+   "path": "/customers/reliant",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/rock-mountain-capital",
+   "path": "/customers/rock-mountain-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/satori",
+   "path": "/customers/satori",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/security-properties",
+   "path": "/customers/security-properties",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/singerman",
+   "path": "/customers/singerman",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/slate",
+   "path": "/customers/slate",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/staubach-capital",
+   "path": "/customers/staubach-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/tilden-properties",
+   "path": "/customers/tilden-properties",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/timberlane",
+   "path": "/customers/timberlane",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/tishman-speyer",
+   "path": "/customers/tishman-speyer",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/tricera",
+   "path": "/customers/tricera",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/ugi",
+   "path": "/customers/ugi",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/watchung-capital",
+   "path": "/customers/watchung-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/customers/wolverton-capital",
+   "path": "/customers/wolverton-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/news/ufaq/how-does-allvues-compliance-management-compare-to-linedata-charles-river-compliance-and-standalone-compliance-tools/",
+   "path": "/news/ufaq/how-does-allvues-compliance-management-compare-to-linedata-charles-river-compliance-and-standalone-compliance-tools",
+   "type": "best",
+   "targets": [],
+   "audience": "Compliance"
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/allvue-alpha-mep-capital-benchmarking-case-study/",
+   "path": "/resources/allvue-alpha-mep-capital-benchmarking-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-4pines-fund-services/",
+   "path": "/resources/case-study-4pines-fund-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-accomplice/",
+   "path": "/resources/case-study-accomplice",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-atlantic-pacific-cos/",
+   "path": "/resources/case-study-atlantic-pacific-cos",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-atlas-holdings/",
+   "path": "/resources/case-study-atlas-holdings",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-polaris/",
+   "path": "/resources/case-study-polaris",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-sosv/",
+   "path": "/resources/case-study-sosv",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-standish-management-llc/",
+   "path": "/resources/case-study-standish-management-llc",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/case-study-trident-trust/",
+   "path": "/resources/case-study-trident-trust",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/trident-trust-fund-admin-case-study/",
+   "path": "/resources/trident-trust-fund-admin-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/video-case-study-inventure/",
+   "path": "/resources/video-case-study-inventure",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/video-case-study-phoenix-fund-services/",
+   "path": "/resources/video-case-study-phoenix-fund-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/video-case-study-standish-management/",
+   "path": "/resources/video-case-study-standish-management",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/news/ufaq/how-does-allvues-private-debt-platform-compare-to-efront-canoe-and-other-credit-fund-platforms/",
+   "path": "/news/ufaq/how-does-allvues-private-debt-platform-compare-to-efront-canoe-and-other-credit-fund-platforms",
+   "type": "vs_rivals",
+   "targets": [
+    "eFront",
+    "Canoe Intelligence"
+   ]
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/news/ufaq/how-does-allvue-for-gps-compare-to-investran-carta-and-other-gp-platforms/",
+   "path": "/news/ufaq/how-does-allvue-for-gps-compare-to-investran-carta-and-other-gp-platforms",
+   "type": "vs_you",
+   "targets": [
+    "Carta"
+   ]
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/news/ufaq/how-does-allvue-fund-accounting-compare-to-investran-yardi-and-other-fund-accounting-platforms/",
+   "path": "/news/ufaq/how-does-allvue-fund-accounting-compare-to-investran-yardi-and-other-fund-accounting-platforms",
+   "type": "vs_you",
+   "targets": [
+    "Yardi"
+   ]
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/automating-prescription-workflows-with-ai-an-ssc-case-study",
+   "path": "/resources/form/automating-prescription-workflows-with-ai-an-ssc-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/clarkston-capital-partners-case-study",
+   "path": "/resources/form/clarkston-capital-partners-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/hedge-fund-industry-solution-case-study",
+   "path": "/resources/form/hedge-fund-industry-solution-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/optimizing-utilization-management-case-study-coordinated-interaction",
+   "path": "/resources/form/optimizing-utilization-management-case-study-coordinated-interaction",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/quadrant-private-capital-case-study",
+   "path": "/resources/form/quadrant-private-capital-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/unipol-case-study-climate-risk",
+   "path": "/resources/form/unipol-case-study-climate-risk",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/unipol-gruppo-case-study-climate-risk",
+   "path": "/resources/form/unipol-gruppo-case-study-climate-risk",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/blog/appfolio-alternatives/",
+   "path": "/blog/appfolio-alternatives",
+   "type": "alt",
+   "targets": [
+    "AppFolio Investment Manager"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/cedar-creek-capital/",
+   "path": "/customer-stories/cedar-creek-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/cedar-creek-from-weeks-to-minutes-with-investnext/",
+   "path": "/customer-stories/cedar-creek-from-weeks-to-minutes-with-investnext",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/clear-summit-investments/",
+   "path": "/customer-stories/clear-summit-investments",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/derosa-group/",
+   "path": "/customer-stories/derosa-group",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/derosa-group-partners-with-investnext/",
+   "path": "/customer-stories/derosa-group-partners-with-investnext",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/griffin-partners/",
+   "path": "/customer-stories/griffin-partners",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/how-52ten-scaled-10x-while-improving-investor-relationships/",
+   "path": "/customer-stories/how-52ten-scaled-10x-while-improving-investor-relationships",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/how-kovitz-accelerated-multi-firm-integration-with-investnext/",
+   "path": "/customer-stories/how-kovitz-accelerated-multi-firm-integration-with-investnext",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/investa-group/",
+   "path": "/customer-stories/investa-group",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/open-door-capital/",
+   "path": "/customer-stories/open-door-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/pasago-investment-management/",
+   "path": "/customer-stories/pasago-investment-management",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/tag-slc/",
+   "path": "/customer-stories/tag-slc",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/customer-stories/wasatch-energy-management-slashes-administrative-burden/",
+   "path": "/customer-stories/wasatch-energy-management-slashes-administrative-burden",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/investnext-vs-juniper-square-compare/",
+   "path": "/investnext-vs-juniper-square-compare",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/landing/investnext-vs-agora/",
+   "path": "/landing/investnext-vs-agora",
+   "type": "vs_you",
+   "targets": [
+    "Agora"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/landing/investnext-vs-agora-capen/",
+   "path": "/landing/investnext-vs-agora-capen",
+   "type": "vs_you",
+   "targets": [
+    "Agora"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/landing/investnext-vs-appfolio-im/",
+   "path": "/landing/investnext-vs-appfolio-im",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/landing/investnext-vs-juniper-square/",
+   "path": "/landing/investnext-vs-juniper-square",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/landing/investnext-vs-juniper-square-alternatives/",
+   "path": "/landing/investnext-vs-juniper-square-alternatives",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/landing/investnext-vs-juniper-square-pricing/",
+   "path": "/landing/investnext-vs-juniper-square-pricing",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "InvestNext",
+   "url": "https://www.investnext.com/landing/investnext-vs-realpage-ims/",
+   "path": "/landing/investnext-vs-realpage-ims",
+   "type": "vs_you",
+   "targets": [
+    "RealPage"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/academy-capital-streamlines-distribution-payments-and-increases-investor-base-by-100/",
+   "path": "/case-study/academy-capital-streamlines-distribution-payments-and-increases-investor-base-by-100",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/arcana-capital-simplifies-investor-access-and-reduces-application-times-by-66-with-agora/",
+   "path": "/case-study/arcana-capital-simplifies-investor-access-and-reduces-application-times-by-66-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/black-salmon-deepens-investor-relationships-and-expands-reach/",
+   "path": "/case-study/black-salmon-deepens-investor-relationships-and-expands-reach",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/box-equities/",
+   "path": "/case-study/box-equities",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/castle-lanterra-streamlines-investment-operations/",
+   "path": "/case-study/castle-lanterra-streamlines-investment-operations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/conserve-holdings-automates-distributions-and-boosts-investor-confidence-with-agora/",
+   "path": "/case-study/conserve-holdings-automates-distributions-and-boosts-investor-confidence-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/discover-how-ppr-cut-investor-onboarding-time-from-days-to-15-minutes-using-agoras-comprehensive-investor-management-platform/",
+   "path": "/case-study/discover-how-ppr-cut-investor-onboarding-time-from-days-to-15-minutes-using-agoras-comprehensive-investor-management-platform",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/f-street-accelerates-investor-onboarding-by-10x-and-enhances-investor-relations-with-agora/",
+   "path": "/case-study/f-street-accelerates-investor-onboarding-by-10x-and-enhances-investor-relations-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/gel-fund-saves-90000-a-year-by-using-agoras-tax-and-bookkeeping-services/",
+   "path": "/case-study/gel-fund-saves-90000-a-year-by-using-agoras-tax-and-bookkeeping-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/go-farm-streamlines-investor-management-and-increases-capital-call-efficiency-by-60/",
+   "path": "/case-study/go-farm-streamlines-investor-management-and-increases-capital-call-efficiency-by-60",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/helu-raises-3x-more-equity-with-agoras-intuitive-platform-and-personalized-service/",
+   "path": "/case-study/helu-raises-3x-more-equity-with-agoras-intuitive-platform-and-personalized-service",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/how-avgi-improves-investor-relations-and-increases-investor-satisfaction-with-agora/",
+   "path": "/case-study/how-avgi-improves-investor-relations-and-increases-investor-satisfaction-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/how-equity-multiple-increases-k-1-delivery-by-50-and-expedites-the-filing-process-by-3-months-using-agoras-tax-services/",
+   "path": "/case-study/how-equity-multiple-increases-k-1-delivery-by-50-and-expedites-the-filing-process-by-3-months-using-agoras-tax-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/july-residential/",
+   "path": "/case-study/july-residential",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/katz-capital-transformed-their-investor-onboarding-process-and-improved-every-aspect-of-their-investor-communications-with-agora/",
+   "path": "/case-study/katz-capital-transformed-their-investor-onboarding-process-and-improved-every-aspect-of-their-investor-communications-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/lightwater-capital/",
+   "path": "/case-study/lightwater-capital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/manzo-freeman-development-achieves-operational-efficiency-with-agora-saving-time-and-strengthening-investor-relations/",
+   "path": "/case-study/manzo-freeman-development-achieves-operational-efficiency-with-agora-saving-time-and-strengthening-investor-relations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/metonic-increased-investor-engagement-by-70-percent/",
+   "path": "/case-study/metonic-increased-investor-engagement-by-70-percent",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/mexico-based-investment-fund-capx-delivers-investors-an-efficient-portal-while-cutting-back-office-work-by-50/",
+   "path": "/case-study/mexico-based-investment-fund-capx-delivers-investors-an-efficient-portal-while-cutting-back-office-work-by-50",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/olive-tree-management/",
+   "path": "/case-study/olive-tree-management",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/providence-enhances-investor-relations-with-agora/",
+   "path": "/case-study/providence-enhances-investor-relations-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/secured-debt-investments-achieving-operational-efficiency-with-agora/",
+   "path": "/case-study/secured-debt-investments-achieving-operational-efficiency-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/suncrest-capital-streamlines-distribution-payments-and-k-1-delivery-with-agora/",
+   "path": "/case-study/suncrest-capital-streamlines-distribution-payments-and-k-1-delivery-with-agora",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/twinpeaks-cuts-communication-efforts-by-50-75-with-agora-and-enhances-investor-relations/",
+   "path": "/case-study/twinpeaks-cuts-communication-efforts-by-50-75-with-agora-and-enhances-investor-relations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/verivest-scales-modern-fund-administration-through-strategic-partnership-with-agora-across-50-clients/",
+   "path": "/case-study/verivest-scales-modern-fund-administration-through-strategic-partnership-with-agora-across-50-clients",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/ydlp-investments/",
+   "path": "/case-study/ydlp-investments",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/agora-vs-juniper-square/",
+   "path": "/compare/agora-vs-juniper-square",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/appfolio-alternatives/",
+   "path": "/compare/appfolio-alternatives",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/appfolio-investment-management-pricing/",
+   "path": "/compare/appfolio-investment-management-pricing",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/appfolio-vs-ims/",
+   "path": "/compare/appfolio-vs-ims",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/appfolio-vs-investnext/",
+   "path": "/compare/appfolio-vs-investnext",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager",
+    "InvestNext"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/appfolio-vs-syndicationpro/",
+   "path": "/compare/appfolio-vs-syndicationpro",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/appfolio-vs-yardi/",
+   "path": "/compare/appfolio-vs-yardi",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager",
+    "Yardi"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/buildium-vs-appfolio/",
+   "path": "/compare/buildium-vs-appfolio",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/carta-alternatives/",
+   "path": "/compare/carta-alternatives",
+   "type": "vs_you",
+   "targets": [
+    "Carta"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/investnext-alternatives/",
+   "path": "/compare/investnext-alternatives",
+   "type": "vs_you",
+   "targets": [
+    "InvestNext"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/investnext-vs-juniper-square/",
+   "path": "/compare/investnext-vs-juniper-square",
+   "type": "vs_you",
+   "targets": [
+    "InvestNext",
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/investnext-vs-syndicationpro/",
+   "path": "/compare/investnext-vs-syndicationpro",
+   "type": "vs_you",
+   "targets": [
+    "InvestNext"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/juniper-square-alternatives/",
+   "path": "/compare/juniper-square-alternatives",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/juniper-square-pricing/",
+   "path": "/compare/juniper-square-pricing",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/juniper-square-vs-appfolio/",
+   "path": "/compare/juniper-square-vs-appfolio",
+   "type": "vs_you",
+   "targets": [
+    "AppFolio Investment Manager",
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/juniper-square-vs-ims/",
+   "path": "/compare/juniper-square-vs-ims",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/juniper-square-vs-syndicationpro/",
+   "path": "/compare/juniper-square-vs-syndicationpro",
+   "type": "vs_you",
+   "targets": [
+    "Juniper Square"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/syndicationpro-vs-yardi/",
+   "path": "/compare/syndicationpro-vs-yardi",
+   "type": "vs_you",
+   "targets": [
+    "Yardi"
+   ]
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/compare/yardi-alternatives/",
+   "path": "/compare/yardi-alternatives",
+   "type": "vs_you",
+   "targets": [
+    "Yardi"
+   ]
+  }
+ ]
+}
