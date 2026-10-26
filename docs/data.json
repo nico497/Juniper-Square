@@ -2,16 +2,16 @@
  "meta": {
   "title": "Competitor Radar",
   "niche": "Investor management and fund administration software for private equity and real estate general partners",
-  "updated": "2026-10-19T13:11:47+00:00",
+  "updated": "2026-10-26T12:59:42+00:00",
   "window_days": 30,
   "repo": "nico497/Juniper-Square",
   "first_run": false,
   "errors": [],
-  "pending": 199,
+  "pending": 103,
   "analysis_stale": false,
   "per_run": 200,
   "tracking_since": "2026-10-19T07:15:25+00:00",
-  "tracking_days": 0
+  "tracking_days": 7
  },
  "types": [
   [
@@ -48,16 +48,16 @@
   ]
  ],
  "analysis": {
-  "summary": "Rivals are racing to open their data to AI tools, and Agora is attacking competitors by name. Juniper Square leads on product pages but has no comparison or switching content.",
+  "summary": "Rivals are pushing AI and open data access. Few publish content for GPs actively switching providers, and Juniper Square has little of it too.",
   "points": [
    {
-    "text": "Agora published 4 comparison pages, including InvestNext and Cash Flow Portal alternatives. Juniper Square has none in this data.",
+    "text": "Agora is the only rival going after switchers, with 4 comparison pages including ones naming InvestNext and Cash Flow Portal.",
     "names": [
      "Agora"
     ]
    },
    {
-    "text": "Three rivals now push AI-connection pages: Juniper Square's Headless GPX, InvestNext's MCP pages and Agora's API and MCP access.",
+    "text": "InvestNext and Agora both pitch open data access (MCP, the link that lets AI tools use your data) and AI. Juniper Square's API page matches the open-access theme.",
     "names": [
      "Juniper Square",
      "InvestNext",
@@ -65,38 +65,38 @@
     ]
    },
    {
-    "text": "Agora updated 44 old pages and published 20 how-to guides, mostly real estate. That is a broad push to win early-stage searchers.",
+    "text": "SS&C GlobalOps publishes at volume (21 new pages) on fund operations topics, mostly for readers still learning, not buying.",
     "names": [
-     "Agora"
+     "SS&C GlobalOps"
     ]
    }
   ],
   "plays": {
-   "Juniper Square": {
-    "play": "Launch AI products (Capital Intelligence, JunieAI, Headless GPX) and refresh 27 product pages across PE, VC and real estate.",
-    "aimed": "PE, VC and real estate GPs"
-   },
    "Allvue Systems": {
-    "play": "Almost silent: one product page and one event recap. Too little to call a strategy.",
-    "aimed": "Alternative investment managers"
+    "play": "Small AI-led launch push: Nexius Studio, a loan market partnership, and an event recap.",
+    "aimed": "Private equity and credit managers"
    },
    "SS&C GlobalOps": {
-    "play": "Publishes opinion and explainers on 1031 exchanges, private credit and K-1 work. Few product pages.",
-    "aimed": "Fund managers early in research"
+    "play": "High-volume thought leadership and research on SMAs (separately managed accounts), 1031 exchanges, and operations outsourcing.",
+    "aimed": "Fund managers researching operations"
    },
    "InvestNext": {
-    "play": "Pushes AI and MCP (a way for AI tools to use your data) across refreshed feature pages.",
-    "aimed": "Smaller real estate and PE sponsors"
+    "play": "Refreshed product and feature pages around AI and MCP, plus brand-focused investor relations opinion pieces.",
+    "aimed": "Real estate sponsors comparing platforms"
    },
    "Agora": {
-    "play": "Wins real estate searches with guides, comparison pages and fresh product pages. Adds API and MCP access.",
-    "aimed": "Real estate GPs, early and late stage"
+    "play": "Big refresh of 44 pages, a weekly launch series, and many guides and comparison pages.",
+    "aimed": "Real estate GPs, from research to buying"
+   },
+   "Juniper Square": {
+    "play": "Launches and trust signals: Capital Intelligence, APIs, a CIO hire, ISO certification, and one case study.",
+    "aimed": "GPs evaluating and buying"
    }
   },
   "shared": [
    {
-    "title": "Open data for AI tools",
-    "text": "Juniper Square (Headless GPX, APIs), InvestNext (MCP pages) and Agora (API and MCP) all say their data works with outside AI. Expect buyers to ask about it.",
+    "title": "Open data and AI access",
+    "text": "Agora and InvestNext both refreshed pages on MCP or API access to customer data. Juniper Square's new APIs page enters the same race, so message it clearly.",
     "names": [
      "Juniper Square",
      "InvestNext",
@@ -104,17 +104,16 @@
     ]
    },
    {
-    "title": "Big refresh of product pages",
-    "text": "Agora updated 44 old pages, Juniper Square 27 and InvestNext 16. This is a refresh push to match new AI messaging, not a wave of new pages.",
+    "title": "Refreshing old pages over new ones",
+    "text": "InvestNext updated 13 pages and Agora updated 44, against 2 and 8 new. This signals a product-page and SEO refresh push, and Juniper Square is far lighter at 5 updates.",
     "names": [
-     "Juniper Square",
      "InvestNext",
      "Agora"
     ]
    },
    {
-    "title": "AI as a learning topic",
-    "text": "InvestNext has AI workflow guides. Agora has AI guides for real estate and fund accounting. Both use AI to attract researchers, not just buyers.",
+    "title": "Comparison pages against named rivals",
+    "text": "Agora has four alternatives pages and InvestNext has one versus Agora. Both court buyers weighing providers, a space where Juniper Square has no comparison page.",
     "names": [
      "InvestNext",
      "Agora"
@@ -123,79 +122,74 @@
   ],
   "gaps": [
    {
-    "title": "Switching playbook",
-    "text": "No one publishes a step-by-step guide to changing fund admin or portal providers: timeline, data move, investor communication. Juniper Square can own the switcher's search."
+    "title": "Switching and migration guides",
+    "text": "No one publishes how to move fund admin or investor portals: timelines, data transfer, checklists. Juniper Square could own the switcher's search and fear points."
    },
    {
-    "title": "Juniper Square versus pages",
-    "text": "Agora names InvestNext and Cash Flow Portal in alternatives pages. Juniper Square has no head-to-head pages in this data. It could frame its own comparisons first."
+    "title": "Customer proof from switchers",
+    "text": "Juniper Square has 1 case study and Agora 1. Nobody shows before-and-after stories from GPs who changed providers, which would help GPs doing the same."
    },
    {
-    "title": "Switcher customer stories",
-    "text": "Juniper Square has 3 case studies. Rivals have almost none that are relevant: Agora's one is internal, SS&C's is off-topic. Stories of GPs who switched are open."
+    "title": "Private equity investor portal comparisons",
+    "text": "Comparison content is real-estate focused (Agora, InvestNext). Private equity GPs get almost no head-to-head guidance, so Juniper Square could lead there."
    }
   ],
-  "versus": {
-   "Allvue Systems": "Allvue published 2 pages and updated none. Juniper Square publishes and refreshes far more product content aimed at buyers.",
-   "SS&C GlobalOps": "SS&C writes broad thought leadership for researchers. Juniper Square writes product pages for buyers, with little opinion content (1 piece).",
-   "InvestNext": "InvestNext mirrors Juniper Square's AI and open-access push, and adds one comparison page and AI how-to guides that Juniper Square lacks.",
-   "Agora": "Agora outpaces Juniper Square on guides (20), comparison pages (4) and refreshes (44), but is focused mainly on real estate."
-  }
+  "versus": {}
  },
  "sites": [
   {
    "name": "Juniper Square",
    "site": "https://www.junipersquare.com",
    "you": true,
-   "n": 33,
-   "site_pages": 739,
-   "n_prev": 4,
-   "refreshed": 31,
+   "n": 8,
+   "site_pages": 741,
+   "n_prev": 30,
+   "refreshed": 8,
    "mix": {
     "compare": 0,
     "howto": 0,
     "list": 0,
     "research": 0,
-    "case": 3,
-    "opinion": 1,
-    "news": 5,
-    "landing": 24
+    "case": 1,
+    "opinion": 0,
+    "news": 2,
+    "landing": 5
    },
    "stages": {
-    "learning": 4,
-    "comparing": 10,
-    "buying": 16,
-    "customers": 3
+    "learning": 1,
+    "comparing": 2,
+    "buying": 4,
+    "customers": 1
    },
    "topics": [
-    "fund operating system for private markets",
     "capital intelligence product launch",
-    "fund administration for real estate",
-    "fund administration software case study",
-    "fund administration customer case studies"
+    "cio appointment and iso certification",
+    "mobile app for investor crm",
+    "apis and integrations for fund operations",
+    "venture capital fund administration software"
    ],
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
-   "new": 6,
-   "updated": 27,
+   "new": 3,
+   "updated": 5,
    "bulk": [],
    "programmatic": [
     {
      "section": "podcasts",
-     "pages": 150,
-     "new": 0
+     "pages": 151,
+     "new": 1
     }
    ],
    "ok": true,
    "error": null,
    "method": "sitemap",
    "url": "https://www.junipersquare.com/sitemaps-1-sitemap.xml",
-   "pages": 739,
+   "pages": 741,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Launch AI products (Capital Intelligence, JunieAI, Headless GPX) and refresh 27 product pages across PE, VC and real estate.",
-   "aimed": "PE, VC and real estate GPs"
+   "new_urls": 2,
+   "play": "Launches and trust signals: Capital Intelligence, APIs, a CIO hire, ISO certification, and one case study.",
+   "aimed": "GPs evaluating and buying"
   },
   {
    "name": "Carta",
@@ -240,9 +234,9 @@
    "name": "Allvue Systems",
    "site": "https://www.allvuesystems.com",
    "you": false,
-   "n": 2,
-   "site_pages": 976,
-   "n_prev": 46,
+   "n": 4,
+   "site_pages": 980,
+   "n_prev": 17,
    "refreshed": 0,
    "mix": {
     "compare": 0,
@@ -251,23 +245,25 @@
     "research": 0,
     "case": 0,
     "opinion": 0,
-    "news": 1,
-    "landing": 1
+    "news": 2,
+    "landing": 2
    },
    "stages": {
-    "learning": 2,
+    "learning": 3,
     "comparing": 0,
-    "buying": 0,
+    "buying": 1,
     "customers": 0
    },
    "topics": [
     "alternative investment software solutions",
-    "ai data governance private markets"
+    "ai data governance private markets",
+    "ai portfolio reporting for private equity",
+    "allvue versana partnership loan market"
    ],
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
-   "new": 2,
+   "new": 4,
    "updated": 0,
    "bulk": [],
    "programmatic": [],
@@ -275,53 +271,53 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.allvuesystems.com/sitemap_index.xml",
-   "pages": 976,
+   "pages": 979,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Almost silent: one product page and one event recap. Too little to call a strategy.",
-   "aimed": "Alternative investment managers"
+   "new_urls": 4,
+   "play": "Small AI-led launch push: Nexius Studio, a loan market partnership, and an event recap.",
+   "aimed": "Private equity and credit managers"
   },
   {
    "name": "SS&C GlobalOps",
    "site": "https://www.ssctech.com",
    "you": false,
-   "n": 15,
-   "site_pages": 1693,
-   "n_prev": 82,
-   "refreshed": 3,
+   "n": 33,
+   "site_pages": 1705,
+   "n_prev": 72,
+   "refreshed": 12,
    "mix": {
     "compare": 0,
-    "howto": 5,
-    "list": 0,
-    "research": 0,
+    "howto": 8,
+    "list": 1,
+    "research": 8,
     "case": 1,
-    "opinion": 9,
+    "opinion": 12,
     "news": 0,
-    "landing": 0
+    "landing": 2
    },
    "stages": {
-    "learning": 14,
-    "comparing": 1,
+    "learning": 29,
+    "comparing": 3,
     "buying": 0,
     "customers": 0
    },
    "topics": [
     "1031 exchanges operations management",
-    "multi-manager model hedge fund risk",
-    "private credit market discipline",
-    "operational efficiency fund administration",
-    "data advantage in banking regulation"
+    "managed it services and cloud infrastructure",
+    "separately managed accounts evolution trends",
+    "smas capital raising hedge funds",
+    "sma adoption in hedge funds"
    ],
-   "unclassified": 72,
+   "unclassified": 26,
    "removed": 0,
    "removed_titles": [],
-   "new": 12,
-   "updated": 3,
+   "new": 21,
+   "updated": 12,
    "bulk": [
     {
      "type": "edit",
      "day": "2026-09-30",
-     "pages": 30
+     "pages": 50
     }
    ],
    "programmatic": [],
@@ -329,11 +325,11 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.ssctech.com/sitemap.xml",
-   "pages": 1693,
+   "pages": 1703,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Publishes opinion and explainers on 1031 exchanges, private credit and K-1 work. Few product pages.",
-   "aimed": "Fund managers early in research"
+   "new_urls": 12,
+   "play": "High-volume thought leadership and research on SMAs (separately managed accounts), 1031 exchanges, and operations outsourcing.",
+   "aimed": "Fund managers researching operations"
   },
   {
    "name": "AppFolio Investment Manager",
@@ -378,85 +374,85 @@
    "name": "InvestNext",
    "site": "https://investnext.com",
    "you": false,
-   "n": 20,
+   "n": 15,
    "site_pages": 296,
-   "n_prev": 17,
-   "refreshed": 16,
+   "n_prev": 22,
+   "refreshed": 13,
    "mix": {
     "compare": 1,
-    "howto": 3,
+    "howto": 0,
     "list": 0,
     "research": 0,
     "case": 0,
     "opinion": 2,
     "news": 0,
-    "landing": 14
+    "landing": 12
    },
    "stages": {
-    "learning": 4,
+    "learning": 2,
     "comparing": 7,
-    "buying": 7,
-    "customers": 2
+    "buying": 6,
+    "customers": 0
    },
    "topics": [
-    "ai workflow automation for internal teams",
-    "ai investor relations workflow automation",
-    "ai-powered custom reporting for gps",
     "investor relations as brand building",
-    "ai capabilities for investor management"
+    "ai capabilities for investor management",
+    "investnext vs agora real estate",
+    "ai-powered investor relationship management",
+    "ai-powered investor management software"
    ],
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
-   "new": 4,
-   "updated": 16,
+   "new": 2,
+   "updated": 13,
    "bulk": [],
    "programmatic": [],
    "ok": true,
    "error": null,
    "method": "sitemap",
    "url": "https://www.investnext.com/sitemap_index.xml",
-   "pages": 296,
+   "pages": 295,
    "undated": 0,
    "new_urls": 0,
-   "play": "Pushes AI and MCP (a way for AI tools to use your data) across refreshed feature pages.",
-   "aimed": "Smaller real estate and PE sponsors"
+   "play": "Refreshed product and feature pages around AI and MCP, plus brand-focused investor relations opinion pieces.",
+   "aimed": "Real estate sponsors comparing platforms"
   },
   {
    "name": "Agora",
    "site": "https://agorareal.com",
    "you": false,
-   "n": 50,
-   "site_pages": 451,
-   "n_prev": 50,
+   "n": 52,
+   "site_pages": 460,
+   "n_prev": 42,
    "refreshed": 46,
    "mix": {
     "compare": 4,
-    "howto": 20,
-    "list": 1,
+    "howto": 19,
+    "list": 0,
     "research": 0,
     "case": 1,
     "opinion": 3,
     "news": 6,
-    "landing": 15
+    "landing": 18
    },
    "stages": {
-    "learning": 30,
-    "comparing": 7,
-    "buying": 11,
-    "customers": 2
+    "learning": 27,
+    "comparing": 8,
+    "buying": 13,
+    "customers": 3
    },
    "topics": [
-    "investor reporting software comparison",
-    "real estate fund performance metrics",
-    "real estate data room best practices",
-    "ai in real estate investment management",
-    "ai capital raising for fund managers"
+    "real estate investment management software",
+    "ai for commercial real estate investment managers",
+    "bookkeeping center accounting automation release",
+    "ai intelligence layer for fund management",
+    "agora api and mcp launch"
    ],
-   "unclassified": 0,
+   "unclassified": 1,
    "removed": 0,
    "removed_titles": [],
-   "new": 6,
+   "new": 8,
    "updated": 44,
    "bulk": [
     {
@@ -470,19 +466,89 @@
    "error": null,
    "method": "sitemap",
    "url": "https://agorareal.com/sitemap.xml",
-   "pages": 451,
+   "pages": 460,
    "undated": 0,
-   "new_urls": 0,
-   "play": "Wins real estate searches with guides, comparison pages and fresh product pages. Adds API and MCP access.",
-   "aimed": "Real estate GPs, early and late stage"
+   "new_urls": 9,
+   "play": "Big refresh of 44 pages, a weekly launch series, and many guides and comparison pages.",
+   "aimed": "Real estate GPs, from research to buying"
   }
  ],
  "pages": [
   {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/solutions/managed-services",
+   "title": "Managed IT Services for Business Protection | SS&C",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Managed IT services and cloud infrastructure",
+   "search": "managed IT services private cloud",
+   "why": "Positions managed services capabilities to prospects evaluating infrastructure and cloud solutions."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/leveraging-technology-to-build-a-secure-cloud",
+   "title": "Leveraging Technology to Build a Secure Cloud",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "updated",
+   "published": "2024-09-03T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Cloud security for financial services",
+   "search": "cloud security financial services",
+   "why": "Demonstrates security expertise to prospects researching cloud solutions for regulated industries."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/european-markets-transition-t1-settlement-cycle",
+   "title": "European Markets’ Transition to T+1 Settlement Cycle",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "updated",
+   "published": "2027-10-11T00:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "T+1 settlement cycle transition",
+   "search": "European markets T+1 settlement transition",
+   "why": "Educates fund managers about upcoming regulatory change and SS&C's solution."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/investor-relations-crm/",
+   "title": "Investor Relations CRM by Agora",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "updated",
+   "published": "2024-10-14T14:12:07+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Investor relations CRM software",
+   "search": "investor relations CRM software",
+   "why": "Positions Agora's CRM as the solution for PE/RE firms managing investor communications and operations."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/agora-integrations/",
+   "title": "Agora Opens Up: API & MCP Access to Your Data",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "updated",
+   "published": "2026-09-21T06:52:55+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "API and MCP integrations for investors",
+   "search": "fund management software integrations API",
+   "why": "Demonstrates Agora's integration capabilities to prospects evaluating platforms with ecosystem connectivity."
+  },
+  {
    "site": "Agora",
    "url": "https://agorareal.com/onboarding/",
    "title": "Quick and easy onboarding with expert support - Agora",
-   "date": "2026-10-19T07:09:40+00:00",
+   "date": "2026-10-26T12:59:42+00:00",
    "kind": "updated",
    "published": "2024-10-10T08:10:12+00:00",
    "first_seen": "2026-10-19T07:15:25+00:00",
@@ -491,6 +557,258 @@
    "topic": "Fund administration software onboarding process",
    "search": "private equity fund management software onboarding",
    "why": "Converts evaluating prospects by removing onboarding friction concerns and demonstrating implementation speed."
+  },
+  {
+   "site": "Juniper Square",
+   "url": "https://www.junipersquare.com/workhorse-testing",
+   "title": "Workhorse Testing",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-22T14:22:00+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "investor management platform case studies",
+   "search": "investor services platform for GPs",
+   "why": "Showcases investor success stories to convince GPs considering Juniper Square for LP management."
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/solutions/nexius-studio-for-private-equity/",
+   "title": "Nexius Studio for Private Equity | Allvue Systems",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "AI portfolio reporting for private equity",
+   "search": "private equity portfolio reporting software",
+   "why": "Showcases AI-powered product capabilities to fund managers evaluating solutions."
+  },
+  {
+   "site": "Allvue Systems",
+   "url": "https://www.allvuesystems.com/resources/versana-and-allvue-partner-to-transform-interoperability-across-9-trillion-loan-market/",
+   "title": "Versana and Allvue Partner to Transform Interoperability Across $9 Trillion Loan Market - Allvue Systems",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-20T00:00:00+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Allvue Versana partnership loan market",
+   "search": "Allvue Versana partnership loan data integration",
+   "why": "Announces strategic partnership and product integration advancing market interoperability."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/single-mingle-evolving-smas-co-mingled-hedge-fund",
+   "title": "Single mingle evolving smas co mingled hedge fund",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "SMAs co-mingled hedge fund structures",
+   "search": "SMA co-mingled hedge fund structures",
+   "why": "Establishes thought leadership on evolving fund management structures for GPs."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/data-quality-is-the-foundation-of-post-trade-automation",
+   "title": "Data Quality Is the Foundation of Post-Trade Automation",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-22T04:00:00+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data quality post-trade automation",
+   "search": "post-trade automation data quality",
+   "why": "Establishes SS&C as thought leader on operational priorities for fund administration."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/visibility-is-the-gap-in-municipal-debt-management",
+   "title": "Visibility Is the Gap in Municipal Debt Management",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-21T04:00:00+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Municipal debt management visibility",
+   "search": "municipal debt management tools",
+   "why": "Educates municipal finance leaders on debt portfolio management best practices."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/the-untapped-opportunity-in-independent-broker-dealers",
+   "title": "The Untapped Opportunity in Independent Broker-Dealers",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-23T03:59:59+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "IBD channel distribution opportunities",
+   "search": "independent broker dealer channel opportunities",
+   "why": "Positions SS&C as thought leader analyzing market gaps for asset managers in IBD distribution."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/entering-etf-market-strategic-roadmap-us-international-asset-managers",
+   "title": "Entering etf market strategic roadmap us international asset managers",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "ETF market entry strategy asset managers",
+   "search": "entering ETF market strategic roadmap",
+   "why": "Attracts asset managers researching ETF launches with industry insights."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/shape-sma-market-evolution-economics-expectations-facing-separately-managed-accounts",
+   "title": "Shape sma market evolution economics expectations facing separately managed accounts",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "SMA market evolution economics",
+   "search": "separately managed accounts market trends",
+   "why": "Establishes thought leadership on SMA market dynamics for asset managers researching the space."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/mutual-funds-etfs-tokenisation",
+   "title": "Mutual funds etfs tokenisation",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Mutual funds ETFs tokenisation",
+   "search": "mutual funds ETFs tokenisation blockchain",
+   "why": "Captures emerging interest in tokenised asset management for fund operations."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/how-ai-automation-and-data-are-reshaping-investment-operations",
+   "title": "How AI, Automation and Data are Reshaping Investment Operations",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-26T03:59:59+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "AI automation data investment operations",
+   "search": "AI automation investment operations",
+   "why": "Establishes thought leadership on how tech transforms fund operations and compliance."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/seven-things-look-for-managed-it-provider",
+   "title": "Seven things look for managed it provider",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "managed IT provider evaluation criteria",
+   "search": "what to look for in managed IT provider",
+   "why": "Educates prospects on IT provider selection before considering their platform."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/blog/introducing-agora-onboard-as-launch-no-6-in-season-of-innovation/",
+   "title": "Introducing Agora Onboard as Launch No.6 in Season of Innovation",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-20T07:26:58+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "news",
+   "stage": "buying",
+   "topic": "AI-powered data onboarding platform",
+   "search": "agora onboarding data migration software",
+   "why": "Announces new product feature to drive adoption among fund managers evaluating or migrating to Agora."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/blog/ai-for-real-estate-capital-raising-how-gps-close-funds-faster/",
+   "title": "AI for real estate capital raising: how GPs close funds faster",
+   "date": "2026-10-26T12:59:42+00:00",
+   "kind": "new",
+   "published": "2026-10-26T06:21:59+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "AI for real estate capital raising",
+   "search": "AI real estate capital raising GPs",
+   "why": "Helps GPs weighing AI solutions see how Agora's platform accelerates fundraising workflows."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/real-estate-investment-dashboard/",
+   "title": "Real estate investment dashboard: Boost investor conversions",
+   "date": "2026-10-22T11:05:02+00:00",
+   "kind": "updated",
+   "published": "2025-03-24T12:07:26+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Real estate investment dashboard software",
+   "search": "real estate investment dashboard",
+   "why": "Converts prospects exploring portfolio management tools into qualified leads."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/about/",
+   "title": "About Agora: the best real estate investment experience",
+   "date": "2026-10-22T10:21:29+00:00",
+   "kind": "updated",
+   "published": "2024-07-19T11:42:14+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Real estate investment management software",
+   "search": "best real estate investment management platform",
+   "why": "Builds credibility and market position through company mission, growth milestones, and industry recognition."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/fund-admin-roundtable-lp/",
+   "title": "Live Roundtable:The Operating Mindset of Running a Fund",
+   "date": "2026-10-21T07:40:50+00:00",
+   "kind": "updated",
+   "published": "2026-02-10T13:41:02+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Operating fund at scale",
+   "search": "how to operate fund at scale",
+   "why": "Establishes thought leadership by hosting expert panelists discussing fund operations challenges."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/customer-success/",
+   "title": "Agora dedicated customer support by real estate experts",
+   "date": "2026-10-20T08:40:06+00:00",
+   "kind": "updated",
+   "published": "2024-09-18T08:10:29+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "customers",
+   "topic": "customer support and success services",
+   "search": "customer success real estate software support",
+   "why": "Showcases customer success team to reassure existing users and prospects about post-sale support quality."
   },
   {
    "site": "Agora",
@@ -703,20 +1021,6 @@
    "why": "Establishes thought leadership on OZ market trends and operational challenges."
   },
   {
-   "site": "SS&C GlobalOps",
-   "url": "https://www.ssctech.com/resources/form/european-markets-transition-t1-settlement-cycle",
-   "title": "European Markets’ Transition to T+1 Settlement Cycle",
-   "date": "2026-10-16T00:00:00+00:00",
-   "kind": "unknown",
-   "published": "2027-10-11T00:00:00+00:00",
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "T+1 settlement cycle transition",
-   "search": "European markets T+1 settlement transition",
-   "why": "Educates fund managers about upcoming regulatory change and SS&C's solution."
-  },
-  {
    "site": "Juniper Square",
    "url": "https://www.junipersquare.com/gpx/apis-and-integrations",
    "title": "APIs and Integrations | Juniper Square",
@@ -771,20 +1075,6 @@
    "topic": "Investment accounting software",
    "search": "investment accounting software private credit",
    "why": "Converts loan portfolio managers evaluating accounting solutions into customers."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/",
-   "title": "Alternative Investment Technology Solutions | Allvue",
-   "date": "2026-10-15T00:00:00+00:00",
-   "kind": "new",
-   "published": "2026-10-15T00:00:00+00:00",
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "learning",
-   "topic": "Alternative investment software solutions",
-   "search": "investor management software for PE firms",
-   "why": "Introduces Allvue's core solutions across fund lifecycle and asset classes."
   },
   {
    "site": "Allvue Systems",
@@ -855,20 +1145,6 @@
    "topic": "1031 exchange administration solutions",
    "search": "1031 exchange software solutions",
    "why": "Targets GPs comparing platforms for integrated 1031 exchange management and administration."
-  },
-  {
-   "site": "Agora",
-   "url": "https://agorareal.com/agora-integrations/",
-   "title": "Agora Opens Up: API & MCP Access to Your Data",
-   "date": "2026-10-14T08:43:33+00:00",
-   "kind": "updated",
-   "published": "2026-09-21T06:52:55+00:00",
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "API and MCP integrations for investors",
-   "search": "fund management software integrations API",
-   "why": "Demonstrates Agora's integration capabilities to prospects evaluating platforms with ecosystem connectivity."
   },
   {
    "site": "SS&C GlobalOps",
@@ -1278,20 +1554,6 @@
   },
   {
    "site": "SS&C GlobalOps",
-   "url": "https://www.ssctech.com/solutions/managed-services",
-   "title": "Managed IT Services for Business Protection | SS&C",
-   "date": "2026-10-12T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Managed IT services and cloud infrastructure",
-   "search": "managed IT services private cloud",
-   "why": "Positions managed services capabilities to prospects evaluating infrastructure and cloud solutions."
-  },
-  {
-   "site": "SS&C GlobalOps",
    "url": "https://www.ssctech.com/resources/form/performance-service",
    "title": "SS&C Performance Service",
    "date": "2026-10-12T00:00:00+00:00",
@@ -1513,20 +1775,6 @@
    "topic": "IRR vs time weighted returns",
    "search": "internal rate of return vs time weighted returns",
    "why": "Educates fund managers on performance measurement differences for open-end vs closed-end funds."
-  },
-  {
-   "site": "SS&C GlobalOps",
-   "url": "https://www.ssctech.com/blog/leveraging-technology-to-build-a-secure-cloud",
-   "title": "Leveraging Technology to Build a Secure Cloud",
-   "date": "2026-10-07T16:02:23+00:00",
-   "kind": "updated",
-   "published": "2024-09-03T04:00:00+00:00",
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "Cloud security for financial services",
-   "search": "cloud security financial services",
-   "why": "Demonstrates security expertise to prospects researching cloud solutions for regulated industries."
   },
   {
    "site": "Allvue Systems",
@@ -2118,6 +2366,62 @@
   },
   {
    "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/emir-reporting-control-and-oversight-in-the-post-refit-world",
+   "title": "EMIR Reporting Control and Oversight in the Post-Refit World",
+   "date": "2026-09-30T23:37:29+00:00",
+   "kind": "bulk",
+   "published": "2025-12-01T05:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "EMIR reporting control frameworks post-Refit",
+   "search": "EMIR Refit ISO 20022 reporting requirements",
+   "why": "Establishes thought leadership on complex regulatory changes affecting their customer base."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/emir-refit-one-year-on-data-quality-reconciliation-where-to-focus",
+   "title": "EMIR Refit One Year On – Data Quality, Reconciliation & Where to Focus",
+   "date": "2026-09-30T23:36:39+00:00",
+   "kind": "bulk",
+   "published": "2025-10-01T03:59:59+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "EMIR Refit regulatory reporting data quality",
+   "search": "EMIR Refit data quality reconciliation 2025",
+   "why": "Establishes thought leadership on emerging regulatory compliance challenges for PE/RE firms."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/emir-refit-insights-and-challenges-one-year-on",
+   "title": "EMIR Refit – Insights and Challenges One Year On",
+   "date": "2026-09-30T23:36:24+00:00",
+   "kind": "bulk",
+   "published": "2025-09-11T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "EMIR Refit regulatory compliance challenges",
+   "search": "EMIR Refit reporting requirements ISO 20022",
+   "why": "Educates fund managers on evolving compliance demands and positions SS&C as knowledgeable compliance partner."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/aml-beneficial-ownership-regulation-changes-what-you-need-to-know",
+   "title": "AML & Beneficial Ownership Regulation Changes – What You Need to Know",
+   "date": "2026-09-30T23:35:04+00:00",
+   "kind": "bulk",
+   "published": "2024-07-31T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "AML beneficial ownership regulation changes",
+   "search": "AML beneficial ownership regulation changes SEC FinCEN",
+   "why": "Informs asset managers of new regulatory requirements affecting their operations."
+  },
+  {
+   "site": "SS&C GlobalOps",
    "url": "https://www.ssctech.com/blog/why-fund-managers-can-no-longer-wait-for-periodic-investor-reports",
    "title": "Why Fund Managers Can No Longer Wait for Periodic Investor Reports",
    "date": "2026-09-30T23:34:33+00:00",
@@ -2157,6 +2461,34 @@
    "topic": "Alternative investment data management platforms",
    "search": "alternative investment data management solutions",
    "why": "Helps prospects evaluate embedded vs. specialized platforms for alternatives management."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/whats-driving-adoption-of-alternative-investment-data-platforms",
+   "title": "What’s Driving Adoption of Alternative Investment Data Platforms",
+   "date": "2026-09-30T23:32:57+00:00",
+   "kind": "bulk",
+   "published": "2026-04-20T03:59:59+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Alternative investment data platform adoption drivers",
+   "search": "alternative investment data platforms adoption",
+   "why": "Establishes thought leadership on operational challenges driving market demand for their solutions."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/the-transformation-of-alternative-investment-data-management",
+   "title": "The Transformation of Alternative Investment Data Management",
+   "date": "2026-09-30T23:32:09+00:00",
+   "kind": "bulk",
+   "published": "2026-03-26T16:18:17+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Alternative investment data management transformation",
+   "search": "alternative investment data management platforms",
+   "why": "Positions SS&C as thought leader in emerging alternative assets operational challenges."
   },
   {
    "site": "SS&C GlobalOps",
@@ -2244,6 +2576,20 @@
   },
   {
    "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/operational-challenges-for-family-offices",
+   "title": "Operational Challenges for Family Offices",
+   "date": "2026-09-30T22:56:46+00:00",
+   "kind": "bulk",
+   "published": "2024-07-09T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Family office operational challenges",
+   "search": "family office operational challenges technology",
+   "why": "Educates family offices about outsourcing and technology trends in the sector."
+  },
+  {
+   "site": "SS&C GlobalOps",
    "url": "https://www.ssctech.com/blog/overcoming-the-operational-complexities-of-side-pockets",
    "title": "Overcoming the Operational Complexities of Side Pockets",
    "date": "2026-09-30T22:55:06+00:00",
@@ -2255,6 +2601,20 @@
    "topic": "Side pockets operational challenges",
    "search": "side pockets hedge fund accounting reporting",
    "why": "Educates fund managers on operational complexities of side pockets to establish thought leadership."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/private-market-operational-challenges-for-family-offices",
+   "title": "Private Market Operational Challenges for Family Offices",
+   "date": "2026-09-30T22:54:04+00:00",
+   "kind": "bulk",
+   "published": "2024-06-13T04:30:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Private markets operations for family offices",
+   "search": "family office private markets challenges",
+   "why": "Establishes SS&C as expert advisor for family offices navigating private asset class complexity."
   },
   {
    "site": "SS&C GlobalOps",
@@ -2300,6 +2660,20 @@
   },
   {
    "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/choosing-the-right-service-provider-for-your-hedge-fund",
+   "title": "Choosing the Right Service Provider for Your Hedge Fund",
+   "date": "2026-09-30T22:51:33+00:00",
+   "kind": "bulk",
+   "published": "2025-01-30T20:40:38+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "howto",
+   "stage": "buying",
+   "topic": "Choosing hedge fund service provider",
+   "search": "how to choose hedge fund service provider",
+   "why": "Positions SS&C as comprehensive solution for emerging hedge fund managers evaluating operational partners."
+  },
+  {
+   "site": "SS&C GlobalOps",
    "url": "https://www.ssctech.com/blog/fixed-income-vcas-demand-more-than-back-office-support",
    "title": "Fixed Income VCAs Demand More Than Back Office Support",
    "date": "2026-09-30T22:48:48+00:00",
@@ -2325,6 +2699,34 @@
    "topic": "AI in valuation control frameworks",
    "search": "frontier models valuation control functions",
    "why": "Positions SS&C as governance expert for PE firms adopting AI in valuation workflows."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/evaluating-fixed-income-pricing-vendors",
+   "title": "Evaluating Fixed Income Pricing Vendors",
+   "date": "2026-09-30T22:47:44+00:00",
+   "kind": "bulk",
+   "published": "2025-12-18T05:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "comparing",
+   "topic": "Fixed income pricing vendor evaluation",
+   "search": "best fixed income pricing vendors",
+   "why": "Positions SS&C's benchmark study as authoritative guide for selecting pricing vendors."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/sscs-fixed-income-benchmark-study-selecting-suitable-vendors",
+   "title": "SS&C’s Fixed Income Benchmark Study – Selecting Suitable Vendors",
+   "date": "2026-09-30T22:47:13+00:00",
+   "kind": "bulk",
+   "published": "2024-10-21T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "buying",
+   "topic": "Fixed income vendor benchmark study",
+   "search": "fixed income pricing vendor comparison",
+   "why": "Positions SS&C's research authority while helping clients evaluate competing pricing vendors."
   },
   {
    "site": "SS&C GlobalOps",
@@ -2426,6 +2828,34 @@
   },
   {
    "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/outsource-the-middle-office-to-gain-competitive-agility",
+   "title": "Outsource the Middle Office to Gain Competitive Agility",
+   "date": "2026-09-30T21:05:18+00:00",
+   "kind": "bulk",
+   "published": "2025-02-04T05:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "comparing",
+   "topic": "Outsourcing middle office operations",
+   "search": "outsource middle office asset management",
+   "why": "Positions outsourcing as solution for boutique managers facing scale and complexity challenges."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/the-middle-office-revolution-driving-modernization",
+   "title": "The Middle Office Revolution Driving Modernization",
+   "date": "2026-09-30T21:04:08+00:00",
+   "kind": "bulk",
+   "published": "2025-12-09T05:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Middle office modernization T+1 settlement",
+   "search": "T+1 settlement middle office challenges",
+   "why": "Establishes thought leadership on industry shift, positioning SS&C as expert in solving T+1 operational gaps."
+  },
+  {
+   "site": "SS&C GlobalOps",
    "url": "https://www.ssctech.com/blog/leverage-technology-and-expertise-with-the-right-outsourcing-provider",
    "title": "Leverage Technology and Expertise with the Right Outsourcing Provider",
    "date": "2026-09-30T21:03:09+00:00",
@@ -2454,6 +2884,20 @@
   },
   {
    "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/outsourcing-preferences-in-the-uk-and-europe",
+   "title": "Outsourcing Preferences in the UK and Europe",
+   "date": "2026-09-30T20:51:17+00:00",
+   "kind": "bulk",
+   "published": "2024-05-07T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Outsourcing preferences UK Europe",
+   "search": "outsourcing middle back office functions survey",
+   "why": "Establishes thought leadership on outsourcing trends and barriers for fund managers."
+  },
+  {
+   "site": "SS&C GlobalOps",
    "url": "https://www.ssctech.com/blog/past-experiences-drive-strong-future-outsourcing-partnerships",
    "title": "Past Experiences Drive Strong Future Outsourcing Partnerships",
    "date": "2026-09-30T20:42:02+00:00",
@@ -2465,6 +2909,62 @@
    "topic": "Asia Pacific outsourcing trends fund administration",
    "search": "middle office outsourcing Asia Pacific survey",
    "why": "Establishes thought leadership on outsourcing adoption in Asian fund industry."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/the-outsourcing-case-for-multi-manager-platforms",
+   "title": "The Outsourcing Case for Multi-Manager Platforms",
+   "date": "2026-09-30T20:39:16+00:00",
+   "kind": "bulk",
+   "published": "2026-09-02T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Outsourcing multi-manager hedge fund platforms",
+   "search": "multi-manager hedge fund platform outsourcing",
+   "why": "Establishes thought leadership on operational challenges in scalable fund management."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/why-talent-scarcity-defines-multi-manager-success",
+   "title": "Why Talent Scarcity Defines Multi-Manager Success",
+   "date": "2026-09-30T20:38:49+00:00",
+   "kind": "bulk",
+   "published": "2026-08-05T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "talent scarcity multi-manager hedge funds",
+   "search": "multi-manager model talent retention",
+   "why": "Establishes thought leadership on industry trends affecting their core buyer persona."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/how-ai-is-reshaping-multi-manager-operations",
+   "title": "How AI Is Reshaping Multi-Manager Operations",
+   "date": "2026-09-30T20:38:25+00:00",
+   "kind": "bulk",
+   "published": "2026-07-08T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "AI in hedge fund operations",
+   "search": "AI multi-manager hedge fund operations",
+   "why": "Positions SS&C as research authority on AI adoption trends in multi-manager funds."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/multi-manager-growth-is-increasingly-an-operational-challenge",
+   "title": "Multi-Manager Growth Is Increasingly an Operational Challenge",
+   "date": "2026-09-30T20:36:38+00:00",
+   "kind": "bulk",
+   "published": "2026-06-30T03:59:59+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Multi-manager hedge fund operations",
+   "search": "multi-manager hedge fund operational challenges",
+   "why": "Establishes thought leadership on pain points affecting their target customers."
   },
   {
    "site": "SS&C GlobalOps",
@@ -2524,6 +3024,20 @@
   },
   {
    "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/rapid-growth-for-multi-manager-platforms-trends-and-technology",
+   "title": "Rapid Growth for Multi-Manager Platforms – Trends and Technology",
+   "date": "2026-09-30T20:34:09+00:00",
+   "kind": "bulk",
+   "published": "2024-10-28T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Multi-manager platforms hedge fund trends",
+   "search": "multi-manager platforms hedge fund growth trends",
+   "why": "Establishes thought leadership on emerging hedge fund industry trends and consolidation."
+  },
+  {
+   "site": "SS&C GlobalOps",
    "url": "https://www.ssctech.com/blog/optimizing-tax-outcomes-in-hedge-fund-management",
    "title": "Optimizing Tax Outcomes in Hedge Fund Management",
    "date": "2026-09-30T20:21:46+00:00",
@@ -2563,6 +3077,20 @@
    "topic": "operational efficiency fund administration",
    "search": "strategic partner fund administration operational efficiency",
    "why": "Positions SS&C as strategic partner while educating fund managers on operational excellence criteria."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/how-to-transition-to-a-new-hedge-fund-administrator",
+   "title": "How to Transition to a New Hedge Fund Administrator",
+   "date": "2026-09-30T20:17:39+00:00",
+   "kind": "bulk",
+   "published": "2025-08-04T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "Transitioning hedge fund administrators",
+   "search": "how to switch hedge fund administrators",
+   "why": "Targets fund managers evaluating if they need a new administrator and how to make the switch."
   },
   {
    "site": "Allvue Systems",
@@ -2689,6 +3217,104 @@
    "topic": "Launching hedge fund UAE",
    "search": "how to launch hedge fund UAE",
    "why": "Educates fund managers exploring UAE market entry with regulatory and operational guidance."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/resources/form/ssc-battea-fireside-chat",
+   "title": "Ssc battea fireside chat",
+   "date": "2026-09-30T00:00:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "SS&C BATTEA fireside chat event",
+   "search": "SS&C BATTEA fireside chat",
+   "why": "Showcases thought leadership and industry insights for fund management professionals."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/building-sma-infrastructure-that-meets-investor-expectations",
+   "title": "Building SMA Infrastructure that Meets Investor Expectations",
+   "date": "2026-09-29T20:25:58+00:00",
+   "kind": "updated",
+   "published": "2026-06-18T04:00:01+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "comparing",
+   "topic": "SMA infrastructure for investment managers",
+   "search": "SMA infrastructure separate managed accounts",
+   "why": "Establishes thought leadership on SMAs, positions purpose-built platforms as superior to retrofits."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/the-evolution-of-separately-managed-accounts",
+   "title": "The Evolution of Separately Managed Accounts",
+   "date": "2026-09-29T20:24:35+00:00",
+   "kind": "updated",
+   "published": "2026-05-22T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Separately managed accounts evolution trends",
+   "search": "separately managed accounts SMA benefits",
+   "why": "Educates GPs on emerging SMA market trends and adoption drivers."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/smas-and-the-capital-raising-challenge",
+   "title": "SMAs and the Capital Raising Challenge",
+   "date": "2026-09-29T20:23:50+00:00",
+   "kind": "updated",
+   "published": "2026-05-06T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "SMAs capital raising hedge funds",
+   "search": "SMA separately managed accounts hedge funds",
+   "why": "Establishes thought leadership on SMA fundraising trends and strategies for hedge fund managers."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/separately-managed-accounts-enter-the-age-of-discipline",
+   "title": "Separately Managed Accounts Enter the Age of Discipline",
+   "date": "2026-09-29T20:23:08+00:00",
+   "kind": "updated",
+   "published": "2026-03-26T17:45:08+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "Separately managed accounts hedge funds",
+   "search": "separately managed accounts SMA hedge funds",
+   "why": "Establishes thought leadership on SMA market maturity and operational challenges facing hedge funds."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/unlocking-customization-transparency-and-control-in-hedge-fund-smas",
+   "title": "Unlocking Customization, Transparency and Control in Hedge Fund SMAs",
+   "date": "2026-09-29T20:21:49+00:00",
+   "kind": "updated",
+   "published": "2025-09-29T04:00:00+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Hedge fund SMAs customization transparency",
+   "search": "what are hedge fund SMAs benefits",
+   "why": "Educates investors on SMA structures to build awareness of portfolio customization needs."
+  },
+  {
+   "site": "SS&C GlobalOps",
+   "url": "https://www.ssctech.com/blog/scale-and-strategy-in-the-growth-of-separately-managed-accounts",
+   "title": "Scale and Strategy in the Growth of Separately Managed Accounts",
+   "date": "2026-09-29T20:20:06+00:00",
+   "kind": "updated",
+   "published": "2025-07-29T20:01:41+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "SMA adoption in hedge funds",
+   "search": "separately managed accounts hedge fund adoption",
+   "why": "Establishes thought leadership with survey data on SMA market trends for fund managers."
   },
   {
    "site": "Juniper Square",
@@ -3759,7 +4385,7 @@
    "url": "https://agorareal.com/investor-relations-management-software/",
    "title": "Investor relations management software: Manage your investors",
    "date": "2026-09-09T17:17:58+00:00",
-   "kind": "updated",
+   "kind": "bulk",
    "published": "2024-10-22T13:03:28+00:00",
    "first_seen": "2026-10-19T07:15:25+00:00",
    "type": "landing",
@@ -3770,17 +4396,255 @@
   },
   {
    "site": "Agora",
-   "url": "https://agorareal.com/investor-relations-crm/",
-   "title": "Investor Relations CRM by Agora",
-   "date": "2026-09-09T17:16:42+00:00",
-   "kind": "updated",
-   "published": "2024-10-14T14:12:07+00:00",
+   "url": "https://agorareal.com/real-estate-capital-raising-platform/",
+   "title": "Real estate capital raising platform for investors",
+   "date": "2026-09-09T17:15:58+00:00",
+   "kind": "bulk",
+   "published": "2024-12-04T08:11:10+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Real estate capital raising platform",
+   "search": "real estate capital raising platform",
+   "why": "Converts prospects ready to explore their capital raising solution with demos and customer proof."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/gpsessions-after-hours-miami-post-event/",
+   "title": "GPSessions after hours: Miami",
+   "date": "2026-09-09T17:15:03+00:00",
+   "kind": "bulk",
+   "published": "2026-03-02T15:14:55+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Launching real estate fund platforms",
+   "search": "how to launch real estate fund structure",
+   "why": "Attracts emerging fund managers researching fund launch best practices and LP structuring."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/gpsessions-after-hours-miami-gated/",
+   "title": "GPSessions after hours: Miami",
+   "date": "2026-09-09T17:14:53+00:00",
+   "kind": "bulk",
+   "published": "2026-05-27T07:39:04+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "case",
+   "stage": "learning",
+   "topic": "Launching scalable real estate fund platform",
+   "search": "how to launch real estate fund platform",
+   "why": "Positions Agora as thought leader for emerging fund managers in real estate."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/tax-services/",
+   "title": "Efficient tax services and K-1 management - Agora",
+   "date": "2026-09-09T17:12:38+00:00",
+   "kind": "bulk",
+   "published": "2024-09-12T07:42:58+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Tax services and K-1 management",
+   "search": "K-1 preparation software for PE funds",
+   "why": "Showcases core tax feature with pricing and customer proofs to convert buying-stage prospects."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/commercial-real-estate-software/",
+   "title": "Commercial real estate software: Asset & investor management",
+   "date": "2026-09-09T17:10:56+00:00",
+   "kind": "bulk",
+   "published": "2025-11-10T08:58:36+00:00",
    "first_seen": "2026-10-19T07:15:25+00:00",
    "type": "landing",
    "stage": "comparing",
-   "topic": "Investor relations CRM software",
-   "search": "investor relations CRM software",
-   "why": "Positions Agora's CRM as the solution for PE/RE firms managing investor communications and operations."
+   "topic": "Commercial real estate software platform",
+   "search": "commercial real estate software",
+   "why": "Converts prospects evaluating asset & investor management solutions by showcasing Agora's features and benefits."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/commercial-real-estate-crm/",
+   "title": "Commercial real estate CRM: Organize, streamline, and grow",
+   "date": "2026-09-09T17:10:34+00:00",
+   "kind": "bulk",
+   "published": "2025-02-12T06:53:34+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Commercial real estate CRM",
+   "search": "commercial real estate CRM software",
+   "why": "Educates buyers on CRE CRM value while positioning Agora's features and social proof."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-studies/",
+   "title": "Agora case studies: Transform your investment management",
+   "date": "2026-09-09T17:08:14+00:00",
+   "kind": "bulk",
+   "published": "2024-09-20T15:19:45+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "real estate investment management software",
+   "search": "real estate investment management software case studies",
+   "why": "Demonstrates platform value to buyers evaluating fund administration solutions."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/australia/",
+   "title": "Agora's investment management solutions",
+   "date": "2026-09-09T17:07:18+00:00",
+   "kind": "bulk",
+   "published": "2025-02-04T06:33:18+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Real estate investment management platform",
+   "search": "real estate investment management software",
+   "why": "Converts Australia prospects with demo and pricing CTAs, case study proof."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/ai-investment-management/",
+   "title": "AI for investment management: Built for real estate GPs",
+   "date": "2026-09-09T17:07:09+00:00",
+   "kind": "bulk",
+   "published": "2025-12-23T07:16:41+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "AI investment management for real estate",
+   "search": "AI investment management real estate GPs",
+   "why": "Showcases AI capabilities to differentiate from legacy fund admin software."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/software/",
+   "title": "Agora software: Powerful investment tools for real estate",
+   "date": "2026-09-09T17:06:57+00:00",
+   "kind": "bulk",
+   "published": "2025-07-24T13:14:46+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Investment management software for real estate",
+   "search": "investment management software real estate",
+   "why": "Converts prospects into customers with pricing, product demo, and case studies."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/security-and-privacy/",
+   "title": "Advanced security and privacy for your investments - Agora",
+   "date": "2026-09-09T17:02:27+00:00",
+   "kind": "bulk",
+   "published": "2024-09-17T14:23:38+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Security and privacy compliance standards",
+   "search": "fund administration software security compliance",
+   "why": "Addresses buyer concerns about data safety with certifications and real customer testimonials."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/investor-onboarding-software/",
+   "title": "Streamline investor onboarding with Agora's software solution",
+   "date": "2026-09-09T17:00:44+00:00",
+   "kind": "bulk",
+   "published": "2024-12-31T15:42:08+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Investor onboarding software",
+   "search": "investor onboarding software",
+   "why": "Targets GPs ready to buy by showing features, benefits, and customer proof."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/cre-management-software/",
+   "title": "Enhance CRE management with Agora's software solution",
+   "date": "2026-09-09T17:00:44+00:00",
+   "kind": "bulk",
+   "published": "2024-12-31T13:38:50+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "CRE management software",
+   "search": "commercial real estate management software",
+   "why": "Convert CRE investors evaluating solutions with product benefits and customer testimonials."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/real-estate-syndication-software/",
+   "title": "Real estate syndication software: Build investor trust",
+   "date": "2026-09-09T17:00:44+00:00",
+   "kind": "bulk",
+   "published": "2024-10-21T16:06:48+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Real estate syndication software",
+   "search": "real estate syndication software",
+   "why": "Converts GPs ready to streamline investor management and portfolio operations into customers."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/season-of-innovation/",
+   "title": "Season of innovation",
+   "date": "2026-09-09T17:00:44+00:00",
+   "kind": "bulk",
+   "published": "2026-08-04T08:01:26+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "AI-powered product release roadmap",
+   "search": "Agora real estate AI releases",
+   "why": "Showcases ongoing innovation to engage existing customers and demonstrate AI investment commitment."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/bookkeeping/",
+   "title": "Real estate bookkeeping solutions - Agora",
+   "date": "2026-09-09T17:00:42+00:00",
+   "kind": "bulk",
+   "published": "2024-10-08T07:35:04+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Real estate bookkeeping solutions",
+   "search": "real estate bookkeeping services for firms",
+   "why": "Showcases bookkeeping expertise with case studies to convert property firms into customers."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/podcast/",
+   "title": "The Deal Makers Podcast %%sep%% Agora",
+   "date": "2026-09-09T17:00:41+00:00",
+   "kind": "bulk",
+   "published": "2024-10-19T09:32:27+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "list",
+   "stage": "learning",
+   "topic": "Real estate investing trends and strategies",
+   "search": "real estate investment insights strategies",
+   "why": "Attracts GPs seeking market trends and peer expertise through podcast and article content hub."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/private-equity-fundraising-software/",
+   "title": "Private equity fundraising software: Optimize capital raising",
+   "date": "2026-09-09T17:00:41+00:00",
+   "kind": "bulk",
+   "published": "2025-03-24T11:47:21+00:00",
+   "first_seen": "2026-10-19T07:15:25+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Private equity fundraising software",
+   "search": "private equity fundraising software",
+   "why": "Positions Agora as solution for GPs optimizing capital raising and investor management operations."
   },
   {
    "site": "Allvue Systems",
@@ -3871,7 +4735,7 @@
    "url": "https://www.allvuesystems.com/news/ufaq/how-does-allvue-help-credit-asset-managers-manage-private-credit-volatility-in-2026-2/",
    "title": "How does Allvue help credit asset managers manage private credit volatility in 2026? - Allvue Systems",
    "date": "2026-09-09T00:00:00+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "published": "2026-09-09T00:00:00+00:00",
    "first_seen": "2026-10-19T07:15:25+00:00",
    "type": "howto",
@@ -3885,7 +4749,7 @@
    "url": "https://www.allvuesystems.com/news/ufaq/how-does-allvues-clo-software-compare-to-solvas-loaniq-and-other-clo-platforms-2/",
    "title": "How does Allvue's CLO software compare to Solvas, LoanIQ, and other CLO platforms? - Allvue Systems",
    "date": "2026-09-09T00:00:00+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "published": "2026-09-09T00:00:00+00:00",
    "first_seen": "2026-10-19T07:15:25+00:00",
    "type": "compare",
@@ -3994,384 +4858,6 @@
   },
   {
    "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/2026-comp-carry-survey/",
-   "title": "2026 Carry & Compensation Report - Allvue Systems",
-   "date": "2026-08-25T19:46:19+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "research",
-   "stage": "learning",
-   "topic": "compensation carry survey alternatives firms",
-   "search": "carried interest compensation survey alternatives",
-   "why": "Establishes market benchmarks to position modernization as industry necessity."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/pipeline-management/",
-   "title": "Private Equity Pipeline Management Software | Deal Tracking",
-   "date": "2026-08-25T14:43:45+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Private equity pipeline management software",
-   "search": "deal pipeline management software",
-   "why": "Showcases core product capabilities to buyers evaluating deal tracking solutions."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/credit-research-solutions/",
-   "title": "Credit Risk Analysis and Research Tools | Allvue Systems",
-   "date": "2026-08-25T14:43:16+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Credit research and risk management software",
-   "search": "credit research analysis portfolio management software",
-   "why": "Educates credit investors on Allvue's research capabilities versus manual spreadsheet workflows."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/fund-of-funds/",
-   "title": "Fund of Funds Software | Allvue Systems",
-   "date": "2026-08-25T14:42:35+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "learning",
-   "topic": "Fund of funds software solution",
-   "search": "fund of funds software",
-   "why": "Targets emerging and established fund of funds managers learning about specialized portfolio management solutions."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/fund-administrators/",
-   "title": "Fund Administration Software | Allvue Systems",
-   "date": "2026-08-25T14:40:38+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Fund administration software for PE firms",
-   "search": "fund administration software",
-   "why": "Attracts fund administrators comparing software solutions for scaling operations."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/pfa-carry-compensation/",
-   "title": "Carried Interest Compensation Software | PFA Solutions",
-   "date": "2026-08-25T14:32:15+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Carried interest compensation software",
-   "search": "carried interest compensation software",
-   "why": "Drives demos from PE/RE firms seeking dedicated carry and compensation management tools."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/nexius-intelligence/",
-   "title": "Nexius Intelligence | Allvue Systems",
-   "date": "2026-08-25T14:30:12+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Private market benchmarking analytics software",
-   "search": "private equity benchmarking analytics software",
-   "why": "Positions data intelligence platform against competitors as decision-grade solution for PE and real estate firms."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/firmview-carry-co-invest-and-compensation/",
-   "title": "FirmView® Carry & Compensation Management Platform | Allvue",
-   "date": "2026-08-25T14:29:13+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Carry compensation co-investment management platform",
-   "search": "carry compensation co-investment management software",
-   "why": "Converts PE professionals managing carry and compensation into FirmView customers."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/private-debt/",
-   "title": "Private Debt Software & Direct Lending Solutions | Allvue Systems",
-   "date": "2026-08-25T13:15:18+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Private debt management software",
-   "search": "private debt software direct lending",
-   "why": "Targets emerging credit managers evaluating solutions for scaling operations efficiently."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/venture-capital/",
-   "title": "Venture Capital Software and Tools | Allvue Systems",
-   "date": "2026-08-25T13:13:16+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "venture capital software platform",
-   "search": "venture capital accounting software",
-   "why": "Showcases Allvue's VC-specific solution against emerging and established competitor alternatives."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/private-equity/",
-   "title": "Private Equity Accounting Software | Allvue Systems",
-   "date": "2026-08-25T13:12:32+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Private equity accounting software",
-   "search": "private equity accounting software",
-   "why": "Showcases platform capabilities to buyers evaluating PE management solutions."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/insurance-companies/",
-   "title": "Alternative Investment Software for Insurance Companies | Allvue",
-   "date": "2026-08-25T13:09:24+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "learning",
-   "topic": "Alternative investment software for insurance",
-   "search": "private equity software insurance companies",
-   "why": "Educates insurance investors on how their platform solves private capital management needs."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/banks/",
-   "title": "Corporate and Investment Banking Software Solutions | Allvue",
-   "date": "2026-08-25T13:04:42+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "learning",
-   "topic": "Banking software for fund operations",
-   "search": "investment banking software solutions",
-   "why": "Educates banks on how Allvue streamlines fund finance, lending, and administration."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/industries/general-partners/",
-   "title": "Alternative Investment Software for General Partners | Allvue",
-   "date": "2026-08-25T13:04:09+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "learning",
-   "topic": "GP software for fund management",
-   "search": "private equity fund management software",
-   "why": "Educates emerging GPs on unified software for front-to-back-office fund operations."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/octaura/",
-   "title": "Octaura | Allvue Systems",
-   "date": "2026-08-25T13:03:09+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Structured finance loan trading platform",
-   "search": "leveraged loan trading software solution",
-   "why": "Showcases integrated solution for loan traders seeking market liquidity and operational efficiency."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/investor-investment-management/",
-   "title": "Investors Relations CRM | Allvue Systems",
-   "date": "2026-08-25T13:02:07+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Investor relations CRM for private equity",
-   "search": "investor relations CRM software",
-   "why": "Converts fund managers evaluating investor management solutions with demo and product benefits."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/private-credit-intelligence/",
-   "title": "Nexius Intelligence Private Credit Data, Analytics, and Benchmarks - Allvue Systems",
-   "date": "2026-08-25T13:01:21+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Private credit data analytics benchmarks",
-   "search": "private credit data analytics benchmarks",
-   "why": "Showcases proprietary dataset and intelligence features to convince credit-focused investors to adopt their platform."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/nexius-data-sets/",
-   "title": "Nexius Intelligence | Allvue Systems",
-   "date": "2026-08-25T13:00:50+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Private market data benchmarking analytics",
-   "search": "private equity benchmarking data analytics software",
-   "why": "Converts investors researching data solutions into customers through direct product education."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/compliance/",
-   "title": "Pre & Post Trade Investment Compliance Software | Allvue",
-   "date": "2026-08-25T12:59:33+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Investment compliance management software",
-   "search": "compliance software for private equity funds",
-   "why": "Presents compliance solution to portfolio managers ready to purchase or demo."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/research-management/",
-   "title": "Investment Research Management Software Solution | Allvue",
-   "date": "2026-08-25T12:58:23+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Investment research management software",
-   "search": "investment research management software",
-   "why": "Showcases research capabilities to prospects evaluating solutions for deal sourcing and analysis."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/portfolio-management/",
-   "title": "Portfolio Management Software | Allvue Systems",
-   "date": "2026-08-25T12:57:52+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Portfolio management software",
-   "search": "portfolio management software investment",
-   "why": "Positions portfolio management features for managers evaluating solutions."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/fund-finance/",
-   "title": "Alternative Investment Data Platform | Allvue Nexius",
-   "date": "2026-08-25T12:57:14+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Fund finance software solutions",
-   "search": "fund finance software subscription NAV lending",
-   "why": "Showcases fund finance capabilities to buyers evaluating lending workflow solutions."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/portfolio-monitoring/",
-   "title": "Portfolio Monitoring Software for PE & VC | Allvue Systems",
-   "date": "2026-08-25T12:56:41+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Portfolio monitoring software PE VC",
-   "search": "portfolio monitoring software private equity",
-   "why": "Showcases core product features to buyers evaluating portfolio tracking solutions."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/fundraising/",
-   "title": "Fundraising Software for PE and Private Debt | Allvue",
-   "date": "2026-08-25T12:54:53+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Fundraising software for PE",
-   "search": "fundraising software private equity",
-   "why": "Positions Allvue's fundraising module as complete solution for capital raising."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/solutions/corporate-accounting/",
-   "title": "Corporate Accounting Software | Allvue Systems",
-   "date": "2026-08-25T12:46:41+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Corporate accounting software for GPs",
-   "search": "corporate accounting software private equity",
-   "why": "Positions corporate accounting as core solution for PE/RE fund managers evaluating options."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/cybersecurity/",
-   "title": "Nexius Intelligence | Allvue Systems",
-   "date": "2026-08-25T12:45:35+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "cybersecurity compliance software",
-   "search": "fund administration software security compliance",
-   "why": "Reassures security-conscious PE/RE fund operators and due diligence teams evaluating their platform."
-  },
-  {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/about/",
-   "title": "About - Allvue Systems",
-   "date": "2026-08-25T12:42:22+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T07:15:25+00:00",
-   "type": "landing",
-   "stage": "learning",
-   "topic": "About Allvue Systems company mission",
-   "search": "private equity fund accounting software",
-   "why": "Establishes company credibility, mission, and timeline to engage prospective buyers."
-  },
-  {
-   "site": "Allvue Systems",
    "url": "https://www.allvuesystems.com/news/ufaq/",
    "title": "AI-Powered Alternative Investment Software | Allvue Systems",
    "date": "2026-08-25T12:33:20+00:00",
@@ -4385,18 +4871,32 @@
    "why": "Introduces AI capabilities and unified platform to prospects exploring solutions."
   },
   {
-   "site": "Allvue Systems",
-   "url": "https://www.allvuesystems.com/resources/private-equity-interoperability/",
-   "title": "Why Private Equity’s AI Success Depends on Interoperable Financial Operations - Allvue Systems",
-   "date": "2026-08-20T00:00:00+00:00",
+   "site": "Agora",
+   "url": "https://agorareal.com/event/gpsessions-after-hours-miami/",
+   "title": "GPSessions After Hours: Miami",
+   "date": "2026-03-23T00:00:00+00:00",
    "kind": "unknown",
-   "published": "2026-08-20T00:00:00+00:00",
-   "first_seen": "2026-10-19T07:15:25+00:00",
+   "published": "2026-03-23T00:00:00+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "fund platform scalability real estate",
+   "search": "scaling real estate fund platform",
+   "why": "Builds thought leadership by hosting exclusive events for fund managers and operators."
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/event/operating-mindset-of-running-a-fund/",
+   "title": "Live Roundtable: The Operating Mindset of Running a Fund",
+   "date": "2026-01-20T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-01-20T00:00:00+00:00",
+   "first_seen": "2026-10-26T12:59:42+00:00",
    "type": "opinion",
    "stage": "learning",
-   "topic": "AI interoperability in private equity",
-   "search": "private equity AI financial operations",
-   "why": "Establishes thought leadership on AI execution and system integration challenges."
+   "topic": "Operating a fund at scale",
+   "search": "how to operate fund at scale",
+   "why": "Establishes thought leadership by hosting expert roundtable on fund operations complexity."
   },
   {
    "site": "SS&C GlobalOps",
@@ -4459,6 +4959,54 @@
      "updated": 22,
      "removed": 0,
      "pages": 451
+    }
+   }
+  },
+  {
+   "week": "2026-W44",
+   "date": "2026-10-26T12:59:42+00:00",
+   "sites": {
+    "Juniper Square": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 590
+    },
+    "Carta": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Allvue Systems": {
+     "new": 4,
+     "updated": 0,
+     "removed": 0,
+     "pages": 980
+    },
+    "SS&C GlobalOps": {
+     "new": 12,
+     "updated": 4,
+     "removed": 0,
+     "pages": 1705
+    },
+    "AppFolio Investment Manager": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "InvestNext": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 296
+    },
+    "Agora": {
+     "new": 6,
+     "updated": 8,
+     "removed": 0,
+     "pages": 460
     }
    }
   }

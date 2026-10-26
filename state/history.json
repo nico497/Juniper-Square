@@ -47,6 +47,54 @@
      "pages": 451
     }
    }
+  },
+  {
+   "week": "2026-W44",
+   "date": "2026-10-26T12:59:42+00:00",
+   "sites": {
+    "Juniper Square": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 590
+    },
+    "Carta": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Allvue Systems": {
+     "new": 4,
+     "updated": 0,
+     "removed": 0,
+     "pages": 980
+    },
+    "SS&C GlobalOps": {
+     "new": 12,
+     "updated": 4,
+     "removed": 0,
+     "pages": 1705
+    },
+    "AppFolio Investment Manager": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "InvestNext": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 296
+    },
+    "Agora": {
+     "new": 6,
+     "updated": 8,
+     "removed": 0,
+     "pages": 460
+    }
+   }
   }
  ]
 }
