@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Investor management and fund administration software for private equity and real estate general partners",
   "you": "Juniper Square",
-  "generated": "2026-10-26T13:04:01+00:00",
+  "generated": "2026-11-02T15:51:30+00:00",
   "state_updated": "2026-10-19T07:15:25+00:00",
   "repo": "nico497/Juniper-Square"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Juniper Square",
-   "tracked": 741,
-   "considered": 589,
+   "tracked": 743,
+   "considered": 590,
    "own_pricing": null,
    "hubs": [
     "https://www.junipersquare.com/customers",
@@ -57,15 +57,15 @@
   },
   {
    "name": "Allvue Systems",
-   "tracked": 980,
-   "considered": 979,
+   "tracked": 982,
+   "considered": 981,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "SS&C GlobalOps",
-   "tracked": 1705,
-   "considered": 1704,
+   "tracked": 1716,
+   "considered": 1715,
    "own_pricing": null,
    "hubs": []
   },
@@ -85,8 +85,8 @@
   },
   {
    "name": "Agora",
-   "tracked": 460,
-   "considered": 443,
+   "tracked": 463,
+   "considered": 446,
    "own_pricing": "https://agorareal.com/pricing/",
    "hubs": [
     "https://agorareal.com/case-studies/"
@@ -114,7 +114,7 @@
   "Investcloud"
  ],
  "excluded": {
-  "templated pages": 151,
+  "templated pages": 152,
   "webinars, glossary, events and category pages": 26
  },
  "pages": [
