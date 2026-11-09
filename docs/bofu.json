@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Investor management and fund administration software for private equity and real estate general partners",
   "you": "Juniper Square",
-  "generated": "2026-11-02T15:51:30+00:00",
+  "generated": "2026-11-09T16:19:43+00:00",
   "state_updated": "2026-10-19T07:15:25+00:00",
   "repo": "nico497/Juniper-Square"
  },
@@ -40,7 +40,7 @@
  "sites": [
   {
    "name": "Juniper Square",
-   "tracked": 743,
+   "tracked": 744,
    "considered": 590,
    "own_pricing": null,
    "hubs": [
@@ -57,15 +57,15 @@
   },
   {
    "name": "Allvue Systems",
-   "tracked": 982,
-   "considered": 981,
+   "tracked": 984,
+   "considered": 983,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "SS&C GlobalOps",
-   "tracked": 1716,
-   "considered": 1715,
+   "tracked": 1724,
+   "considered": 1723,
    "own_pricing": null,
    "hubs": []
   },
@@ -78,15 +78,15 @@
   },
   {
    "name": "InvestNext",
-   "tracked": 296,
-   "considered": 290,
+   "tracked": 297,
+   "considered": 291,
    "own_pricing": "https://www.investnext.com/pricing/",
    "hubs": []
   },
   {
    "name": "Agora",
-   "tracked": 463,
-   "considered": 446,
+   "tracked": 470,
+   "considered": 452,
    "own_pricing": "https://agorareal.com/pricing/",
    "hubs": [
     "https://agorareal.com/case-studies/"
@@ -114,8 +114,8 @@
   "Investcloud"
  ],
  "excluded": {
-  "templated pages": 152,
-  "webinars, glossary, events and category pages": 26
+  "templated pages": 153,
+  "webinars, glossary, events and category pages": 27
  },
  "pages": [
   {
@@ -846,6 +846,13 @@
   },
   {
    "site": "Agora",
+   "url": "https://agorareal.com/case-study/area-real-estate-scales-a-growing-portfolio-with-a-lean-finance-team/",
+   "path": "/case-study/area-real-estate-scales-a-growing-portfolio-with-a-lean-finance-team",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
    "url": "https://agorareal.com/case-study/black-salmon-deepens-investor-relationships-and-expands-reach/",
    "path": "/case-study/black-salmon-deepens-investor-relationships-and-expands-reach",
    "type": "case",
@@ -995,6 +1002,13 @@
    "site": "Agora",
    "url": "https://agorareal.com/case-study/twinpeaks-cuts-communication-efforts-by-50-75-with-agora-and-enhances-investor-relations/",
    "path": "/case-study/twinpeaks-cuts-communication-efforts-by-50-75-with-agora-and-enhances-investor-relations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/verakin-capital-takes-control-of-tax-season-and-gets-k-1s-to-investors-faster-with-agoras-accounting-services/",
+   "path": "/case-study/verakin-capital-takes-control-of-tax-season-and-gets-k-1s-to-investors-faster-with-agoras-accounting-services",
    "type": "case",
    "targets": []
   },
