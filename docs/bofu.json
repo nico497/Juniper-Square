@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Investor management and fund administration software for private equity and real estate general partners",
   "you": "Juniper Square",
-  "generated": "2026-11-09T16:19:43+00:00",
+  "generated": "2026-11-16T15:46:47+00:00",
   "state_updated": "2026-10-19T07:15:25+00:00",
   "repo": "nico497/Juniper-Square"
  },
@@ -40,7 +40,7 @@
  "sites": [
   {
    "name": "Juniper Square",
-   "tracked": 744,
+   "tracked": 745,
    "considered": 590,
    "own_pricing": null,
    "hubs": [
@@ -57,15 +57,15 @@
   },
   {
    "name": "Allvue Systems",
-   "tracked": 984,
-   "considered": 983,
+   "tracked": 985,
+   "considered": 984,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "SS&C GlobalOps",
-   "tracked": 1724,
-   "considered": 1723,
+   "tracked": 1737,
+   "considered": 1736,
    "own_pricing": null,
    "hubs": []
   },
@@ -85,8 +85,8 @@
   },
   {
    "name": "Agora",
-   "tracked": 470,
-   "considered": 452,
+   "tracked": 472,
+   "considered": 454,
    "own_pricing": "https://agorareal.com/pricing/",
    "hubs": [
     "https://agorareal.com/case-studies/"
@@ -114,7 +114,7 @@
   "Investcloud"
  ],
  "excluded": {
-  "templated pages": 153,
+  "templated pages": 154,
   "webinars, glossary, events and category pages": 27
  },
  "pages": [
@@ -951,6 +951,13 @@
   },
   {
    "site": "Agora",
+   "url": "https://agorareal.com/case-study/lombard-equities-brings-bookkeeping-and-tax-under-one-roof/",
+   "path": "/case-study/lombard-equities-brings-bookkeeping-and-tax-under-one-roof",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
    "url": "https://agorareal.com/case-study/manzo-freeman-development-achieves-operational-efficiency-with-agora-saving-time-and-strengthening-investor-relations/",
    "path": "/case-study/manzo-freeman-development-achieves-operational-efficiency-with-agora-saving-time-and-strengthening-investor-relations",
    "type": "case",
@@ -1016,6 +1023,13 @@
    "site": "Agora",
    "url": "https://agorareal.com/case-study/verivest-scales-modern-fund-administration-through-strategic-partnership-with-agora-across-50-clients/",
    "path": "/case-study/verivest-scales-modern-fund-administration-through-strategic-partnership-with-agora-across-50-clients",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Agora",
+   "url": "https://agorareal.com/case-study/yankee-capital-partners-automates-75-of-investor-onboarding/",
+   "path": "/case-study/yankee-capital-partners-automates-75-of-investor-onboarding",
    "type": "case",
    "targets": []
   },
